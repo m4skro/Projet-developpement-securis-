@@ -1,6 +1,6 @@
 # My glorious blog
 
-Small Blog
+Small Blog !
 
 ## Installation
 
