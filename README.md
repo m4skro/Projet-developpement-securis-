@@ -1,6 +1,6 @@
 # My glorious blog
 
-One small project of a web blog.
+Small Blog
 
 ## Installation
 
